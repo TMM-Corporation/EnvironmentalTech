@@ -94,7 +94,7 @@ IDRegistry.genBlockID("flight_modifier");
 IDRegistry.genBlockID("health_boost_modifier");
 IDRegistry.genBlockID("fire_modifier");
 IDRegistry.genBlockID("invisibility_modifier");
-IDRegistry.genBlockID("strngth_modifier");
+IDRegistry.genBlockID("strength_modifier");
         //SOLAR
 IDRegistry.genBlockID("sact1");
 IDRegistry.genBlockID("sact2");
